@@ -1,5 +1,5 @@
 # pokemmo-tool
-Its poke mmo tool to provide info on pokemon locations, moveset - taken directly from forum.It can even get to know which aoe moves are learnt by pokemon.
+Its poke mmo tool to provide info on pokemon locations, moveset - taken directly from poke mmo forum.It can even get to know which aoe moves are learnt by pokemon.
 It automatically downloads pokemon images.
 
 ![image](https://github.com/dziulatex/pokemmo-tool/assets/38464243/6f46b32e-2ca5-4200-b66c-d3b4f1c232f4)
