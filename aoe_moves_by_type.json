@@ -1,0 +1,52 @@
+{
+  "water": [
+    "water-spout",
+    "surf",
+    "bubble",
+    "muddy-water"
+  ],
+  "ground": [
+    "bulldoze",
+    "earthquake"
+  ],
+  "electric": [
+    "electroweb",
+    "discharge"
+  ],
+  "fire": [
+    "eruption",
+    "heat-wave",
+    "incinerate",
+    "lava-plume"
+  ],
+  "poison": [
+    "sludge-wave",
+    "acid"
+  ],
+  "normal": [
+    "hyper-voice",
+    "razor-wind"
+  ],
+  "grass": [
+    "razor-leaf"
+  ],
+  "rock": [
+    "rock-slide"
+  ],
+  "ice": [
+    "icy-wind",
+    "powder-snow"
+  ],
+  "dragon": [
+    "twister"
+  ],
+  "flying": [
+    "air-cutter"
+  ],
+  "bug": [
+    "struggle-bug"
+  ],
+  "dark": [
+    "snarl"
+  ]
+}

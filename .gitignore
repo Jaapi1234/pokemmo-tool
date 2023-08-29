@@ -1,0 +1,5 @@
+/.idea/
+/build/
+/poke_images/
+/*.pkl
+/*.spec
