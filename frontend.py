@@ -1,13 +1,11 @@
 import tkinter as tk
 from tkinter import ttk, Toplevel
 import json
-import requests
 import os
 import pickle
 import threading
 from check_which_aoe_moves_pokemon_can_learn import find_aoe_moves, pokemons_that_can_learn_move, aoe_moves_data, \
     format_move, pokemons_locations, pokemon_moves
-from PIL import Image, ImageTk, ImageOps
 
 IMAGE_FOLDER = "poke_images"
 ITEMS_PER_PAGE = 10
